@@ -1,5 +1,5 @@
 # Course Selection
-https://cyan.csam.montclair.edu/~shahk6/
+https://courseregistration2024.000webhostapp.com/login.html
 
 The Course Management System is a key project for universities and students.
 It facilitates course management by allowing two types of users: Admin and User. 
